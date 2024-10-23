@@ -1,1 +1,1 @@
-fastapi[all]
+python app.py
